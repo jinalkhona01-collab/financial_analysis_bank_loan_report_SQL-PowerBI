@@ -1,9 +1,13 @@
 **Bank Loan Report - Financial Analysis Project**
 
 **📊 Project Overview**
+
 A comprehensive Bank Loan Report system that monitors lending activities, portfolio health, and performance metrics through interactive Power BI dashboards. The solution tracks KPIs, distinguishes between good and bad loans, and identifies trends across multiple dimensions to enable data-driven decision-making.
+
 ![Summary Dashboard](https://github.com/user-attachments/assets/870015e6-940d-4bd4-aaec-68db2cf5e6f7)
+
 ![Overview Dashboard](https://github.com/user-attachments/assets/5bf82d8d-1e61-4af1-b5bb-917d3cffdc37)
+
 ![Details Dashboard](https://github.com/user-attachments/assets/6f22819c-e26c-4ec4-8858-9244cb800528)
 
 **📁 Dataset**
