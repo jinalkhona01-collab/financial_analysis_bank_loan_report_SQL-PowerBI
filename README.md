@@ -118,6 +118,7 @@ Geographic concentration presents opportunity and risk
 
 **Revenue Enhancement:** Monitor 3.47% MoM interest rate increase for market competitiveness
 
+
 **🚀 How to Run**
 
 Database Setup: Import data into PostgreSQL as bank_loan_data table
